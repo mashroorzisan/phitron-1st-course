@@ -1,0 +1,10 @@
+ swaping 3 and 5
+ swaping 2 and 3
+ swaping 4 and 5
+ swaping 3 and 4
+ swaping 4 and 5
+ swaping 5 and 10
+ swaping 5 and 10
+ swaping 7 and 10
+ swaping 9 and 10
+2 3 4 5 5 7 9 10 

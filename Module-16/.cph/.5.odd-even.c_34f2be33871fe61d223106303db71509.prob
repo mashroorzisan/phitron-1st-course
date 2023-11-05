@@ -1,0 +1,1 @@
+{"name":"Local: 5","url":"d:\\phitron\\Module-16\\5.odd-even.c","tests":[{"id":1698612054313,"input":"5\n1 2 3 4 5","output":"2 3"},{"id":1698612093878,"input":"6\n0 4 0 6 5 3","output":"4 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\Module-16\\5.odd-even.c","group":"local","local":true}

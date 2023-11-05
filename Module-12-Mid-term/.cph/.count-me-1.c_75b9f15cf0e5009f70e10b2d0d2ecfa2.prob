@@ -1,0 +1,1 @@
+{"name":"Local: count-me-1","url":"d:\\phitron\\Mid-term\\count-me-1.c","tests":[{"id":1697735858642,"input":"5\n1 4 2 5 3","output":"2 1"},{"id":1697735872890,"input":"4\n6 9 12 15","output":"2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\Mid-term\\count-me-1.c","group":"local","local":true}

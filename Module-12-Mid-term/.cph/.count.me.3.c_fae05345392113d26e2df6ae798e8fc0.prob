@@ -1,0 +1,1 @@
+{"name":"Local: count","url":"d:\\phitron\\Mid-term\\count.me.3.c","tests":[{"id":1697742030115,"input":"2\ntheFox25IsBrave\nILoveYou100TimesAndSay2Also","output":"3 10 2\n7 16 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\Mid-term\\count.me.3.c","group":"local","local":true}
