@@ -1,0 +1,1 @@
+{"name":"Local: Tiger-vs-Pathan","url":"d:\\phitron\\Module-20\\Tiger-vs-Pathan.c","tests":[{"id":1699198679234,"input":"3\n5\nTPTPP\n3\nTTP\n4\nTPPT","output":"Pathaan\nTiger\nDraw"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\Module-20\\Tiger-vs-Pathan.c","group":"local","local":true}
