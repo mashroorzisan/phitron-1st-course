@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"d:\\phitron\\course -data structure\\Module-8\\1.difference.cpp","tests":[{"id":1701964918412,"input":"2 4 1 5 3 6 -1","output":"5"},{"id":1701964928479,"input":"2 -1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\course -data structure\\Module-8\\1.difference.cpp","group":"local","local":true}
