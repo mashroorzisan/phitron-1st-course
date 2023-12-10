@@ -98,7 +98,6 @@ void print(Node *head)
     }
     cout << endl;
 }
-
 int main()
 {
 
